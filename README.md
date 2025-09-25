@@ -1,2 +1,2 @@
-# Project-01-Colab-
+# Project-01-Collab-
 Project to learn coloboration
